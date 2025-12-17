@@ -49,4 +49,4 @@ O projeto foi pensado para praticar:
 Você pode clonar este repositório e abrir o arquivo `index.html` no navegador:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/marcos-vsg95/Pagina-Comemorativa-Responsiva
